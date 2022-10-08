@@ -1,1 +1,2 @@
-sh: 1: /bin/bashls: not found
+#!/bin/bash
+ls
